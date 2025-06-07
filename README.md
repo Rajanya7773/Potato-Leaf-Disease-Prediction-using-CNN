@@ -46,8 +46,7 @@ The project includes the following folders:
 
 
 ```bash
-git clone https://github.com/abhay41/Potato-Leaf-Disease-Prediction.git
-cd Potato-Leaf-Disease-Prediction
+https://github.com/Rajanya7773/Potato-Leaf-Disease-Prediction-using-CNN
 
 ```
 
